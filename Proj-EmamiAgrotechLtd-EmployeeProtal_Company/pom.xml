@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>eal</groupId>
-	<artifactId>Proj-EmamiAgrotechLtd-EmployeeProtal_Department</artifactId>
+	<artifactId>Proj-EmamiAgrotechLtd-EmployeeProtal_Company</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Proj-EmamiAgrotechLtd-EmployeeProtal_Department</name>
+	<name>Proj-EmamiAgrotechLtd-EmployeeProtal_Company</name>
 	<description>Employee Portal Department</description>
 	<properties>
 		<java.version>17</java.version>
